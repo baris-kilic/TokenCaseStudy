@@ -8,7 +8,7 @@ This project is aimed to develop an application for receiving payments using the
 This file contains the user interface for the MainActivity. It includes the layout and design of the main screen.
 
 ### MainActivity.kt
-This file is the main class of the application. It implements the functionality of the main screen, including the QR code generation, and launching the PaymentActivity.
+This file is the main class of the application. It implements the functionality of the main screen, including the QR code generation with Get QR for sale API by Volley, and launching the PaymentActivity.
 
 ### PaymentActivity.kt
 This file implements the payment processing functionality of the application. It uses the Volley library to make a REST API call to the OSY-QR service, and processes the response to get the payment details.
@@ -31,7 +31,6 @@ This file implements the payment processing functionality of the application. It
 
 - Android Studio
 - Kotlin programming language
-- Volley library
 
 ## Contributing
 
