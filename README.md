@@ -18,8 +18,9 @@ This file implements the payment processing functionality of the application. It
 1. Clone the repository to your local machine
 2. Open the project in Android Studio
 3. Run the project on an emulator or an Android device
-4. Scan the generated QR code with a compatible payment device to initiate a payment
-5. Check the list of payments in the PaymentActivity screen
+4. Enter the amount and send request to API
+5. Scan the generated QR code with a compatible payment device to initiate a payment
+6. Check the list of payments in the Mobile Interface
 
 ## Prerequisites
 
